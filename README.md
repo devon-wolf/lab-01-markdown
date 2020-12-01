@@ -29,7 +29,9 @@ _also ital_
 # Code
 `A line of code is wrapped in backticks`
 
-```A block of code goes in three backticks - now I get to use this for its intended purposes instead of sending snippets of writing!```
+```
+A block of code goes in three backticks (on lines outside the block of test itself, I've noticed) - now I get to use this for its intended purposes instead of sending snippets of writing!
+```
 
 ```js
 if(true) {
@@ -40,11 +42,12 @@ if(true) {
 > This is a block quote.
 
 
+(use a generator to make tables with minimal headache, link in curriculum repo)
+
 Name|Type|Cool Factor
 ---|---|---
 spot | puppy | 10
 jumpy | frog | 7
 flaps | birb | 4
 mew-mew | kitty | 6
-(use a generator to make tables with minimal headache, link in curriculum repo)
 
